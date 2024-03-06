@@ -2,4 +2,5 @@ pylint
 pytest
 click
 black
+flask
 pytest-cov
